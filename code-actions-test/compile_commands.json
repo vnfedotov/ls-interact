@@ -1,0 +1,7 @@
+[
+    {
+        "directory": "/Users/vnfedotov/git/ls-interact/code-actions-test",
+        "file": "test_clangd_code_actions.c",
+        "arguments": ["/usr/local/opt/llvm/bin/clang", "-c", "test_clangd_code_actions.c", "-std=c18"]
+    }
+]
